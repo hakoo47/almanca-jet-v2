@@ -1,0 +1,1 @@
+Güncellenmiş sürüm. flutter_tts 3.5.2 ile Codemagic uyumlu hale getirildi.
